@@ -687,7 +687,7 @@ top: 85px;
 
 @media (max-width: 768px) {
   .myimagebg{
-    backgroundImage: url("D:\my-quizapp-hamza\ReactQuizAPP\my-quizapp\src\img\Quizbg1.jpg");
+    backgroundImage: url("./img/Quizbg1.jpg");
     background-size: 0cqmax;
     backgroundRepeat: no-repeat;
     backgroundPosition: center;
